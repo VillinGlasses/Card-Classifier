@@ -1,0 +1,2 @@
+Dataset used was downloaded from this URL:
+https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
